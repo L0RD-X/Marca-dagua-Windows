@@ -1,4 +1,4 @@
 bcdedit -set testsigning OFF
 
-MsgBox"Processo concluído com sucesso! O computador será reinicializado, aguarde...",0, "Removedor de Marca ďágua Windows"
+MsgBox"Removido com sucesso, basta reiniciar para ver, click em ok parar reinciar",0, "Removedor de Marca d'agua Windows"
 reboot
